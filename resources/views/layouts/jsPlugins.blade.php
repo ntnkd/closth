@@ -1,0 +1,11 @@
+<!-- Js Plugins -->
+<script src="/template/js/jquery-3.3.1.min.js"></script>
+<script src="/template/js/bootstrap.min.js"></script>
+<script src="/template/js/jquery.nice-select.min.js"></script>
+<script src="/template/js/jquery.nicescroll.min.js"></script>
+<script src="/template/js/jquery.magnific-popup.min.js"></script>
+<script src="/template/js/jquery.countdown.min.js"></script>
+<script src="/template/js/jquery.slicknav.js"></script>
+<script src="/template/js/mixitup.min.js"></script>
+<script src="/template/js/owl.carousel.min.js"></script>
+<script src="/template/js/main.js"></script>
